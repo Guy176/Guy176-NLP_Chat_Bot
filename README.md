@@ -1,4 +1,4 @@
-#In this project I decided to use your suggested intents:
+#In this project I decided to use the following intents:
 #book_flight
 #change_flight
 #cancel_flight
